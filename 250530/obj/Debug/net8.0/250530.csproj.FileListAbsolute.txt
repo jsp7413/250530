@@ -1,0 +1,14 @@
+Z:\Backup\박준상\250530\250530\bin\Debug\net8.0\250530.exe
+Z:\Backup\박준상\250530\250530\bin\Debug\net8.0\250530.deps.json
+Z:\Backup\박준상\250530\250530\bin\Debug\net8.0\250530.runtimeconfig.json
+Z:\Backup\박준상\250530\250530\bin\Debug\net8.0\250530.dll
+Z:\Backup\박준상\250530\250530\bin\Debug\net8.0\250530.pdb
+Z:\Backup\박준상\250530\250530\obj\Debug\net8.0\250530.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Backup\박준상\250530\250530\obj\Debug\net8.0\250530.AssemblyInfoInputs.cache
+Z:\Backup\박준상\250530\250530\obj\Debug\net8.0\250530.AssemblyInfo.cs
+Z:\Backup\박준상\250530\250530\obj\Debug\net8.0\250530.csproj.CoreCompileInputs.cache
+Z:\Backup\박준상\250530\250530\obj\Debug\net8.0\250530.dll
+Z:\Backup\박준상\250530\250530\obj\Debug\net8.0\refint\250530.dll
+Z:\Backup\박준상\250530\250530\obj\Debug\net8.0\250530.pdb
+Z:\Backup\박준상\250530\250530\obj\Debug\net8.0\250530.genruntimeconfig.cache
+Z:\Backup\박준상\250530\250530\obj\Debug\net8.0\ref\250530.dll
